@@ -1,6 +1,6 @@
 # LHC-SH1
 
-https://lhc.net.br/wiki/LHC_Balloon
+https://lhc.net.br/wiki/LHC_Balloon (Versão antiga da idealização do projeto).
 
 # Agenda
 
