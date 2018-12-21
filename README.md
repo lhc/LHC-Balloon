@@ -1,7 +1,3 @@
-# LHC-SH1
-
-https://lhc.net.br/wiki/LHC_Balloon (Versão antiga da idealização do projeto).
-
 # Agenda
 
 - 06-06-2018 - Primeira reunião organização das tarefas. 
